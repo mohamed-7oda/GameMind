@@ -1,2 +1,0 @@
-{names: [player team left, player team right, goalkeepers team left, goalkeeper team
-      right, referee, ball], nc: 6, train: /kaggle/working/yolov8/images/train, val: /kaggle/working/yolov8/images/valid}
